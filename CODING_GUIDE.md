@@ -1,4 +1,4 @@
-# コーディングガイドライン
+# Coding Guidelines
 
 ## HTML
 
